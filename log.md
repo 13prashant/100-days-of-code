@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: May 13, 2021, Thursday
+### Day 1: May 13, 2021, Thursday
 
 **Today's Progress**: Made responsive Navbar using HTML/CSS, JS.
 
@@ -8,10 +8,18 @@
 
 **Link to work:** [Responsive Navbar](https://codepen.io/13prashant/pen/MWpKxvw)
 
-### Day 1: May 14, 2021, Friday
+### Day 2: May 14, 2021, Friday
 
 **Today's Progress**: Opened my phone, inspired by App store design, cloned it using HTML/CSS.
 
 **Thoughts:** Need to get better at class naming conventions and avoiding repetitions.
 
 **Link to work:** [App Store](https://codepen.io/13prashant/pen/qBrZPeZ)
+
+### Day 3: May 15, 2021, Saturday
+
+**Today's Progress**: Tried to clone cat design from dribble with HTML/CSS.
+
+**Thoughts:** Need to get better at class naming conventions and avoiding repetitions.
+
+**Link to work:** [App Store](https://codepen.io/13prashant/pen/LYWNKKO)
