@@ -22,4 +22,12 @@
 
 **Thoughts:** Need to get better at class naming conventions and avoiding repetitions.
 
-**Link to work:** [App Store](https://codepen.io/13prashant/pen/LYWNKKO)
+**Link to work:** [Cat on Box](https://codepen.io/13prashant/pen/LYWNKKO)
+
+### Day 4: May 16, 2021, Sunday
+
+**Today's Progress**: Tried to clone web layout from dribble- Glassmorphism.
+
+**Thoughts:** Need to get better at shapes and overflow properties as well as css position.
+
+**Link to work:** [Glassmorphism](https://codepen.io/13prashant/pen/JjWKvEO)
