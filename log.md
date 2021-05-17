@@ -31,3 +31,11 @@
 **Thoughts:** Need to get better at shapes and overflow properties as well as css position.
 
 **Link to work:** [Glassmorphism](https://codepen.io/13prashant/pen/JjWKvEO)
+
+### Day 5: May 17, 2021, Monday
+
+**Today's Progress**: Neuromorphism.
+
+**Thoughts:** Define a light source first. According to it play with box-shadow.
+
+**Link to work:** [Neuromorphic Music Player](https://codepen.io/13prashant/pen/PopzvRz)
