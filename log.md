@@ -39,3 +39,13 @@
 **Thoughts:** Define a light source first. According to it play with box-shadow.
 
 **Link to work:** [Neuromorphic Music Player](https://codepen.io/13prashant/pen/PopzvRz)
+
+### Day 6: May 18, 2021, Tuesday
+
+**Today's Progress**: There was Power cut whole day due to Tauktae Cyclone.
+
+### Day 7: May 19, 2021, Wednesday
+
+**Today's Progress**: Tic-Tac-Toe.
+
+**Thoughts:** Need to practice more and more Vanilla Javascript projects.
