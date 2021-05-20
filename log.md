@@ -49,3 +49,11 @@
 **Today's Progress**: Tic-Tac-Toe.
 
 **Thoughts:** Need to practice more and more Vanilla Javascript projects.
+
+### Day 8: May 20, 2021, Thursday
+
+**Today's Progress**: Polishing CSS skiil on CSSBattle
+
+**Thoughts:** It's fun to polish CSS skill on CSSBattle.
+
+**Link to work:** [CSSBattle](https://cssbattle.dev/player/prashaant)
