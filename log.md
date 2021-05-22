@@ -57,3 +57,11 @@
 **Thoughts:** It's fun to polish CSS skill on CSSBattle.
 
 **Link to work:** [CSSBattle](https://cssbattle.dev/player/prashaant)
+
+### Day 9, 10: May 22, 2021, Saturday
+
+**Today's Progress**: Polishing CSS skiil on CSSBattle
+
+**Thoughts:** It's fun to polish CSS skill on CSSBattle.
+
+**Link to work:** [CSSBattle](https://cssbattle.dev/player/prashaant)
