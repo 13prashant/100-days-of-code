@@ -65,3 +65,11 @@
 **Thoughts:** It's fun to polish CSS skill on CSSBattle.
 
 **Link to work:** [CSSBattle](https://cssbattle.dev/player/prashaant)
+
+### Day 11, 12. 13: May 25, 2021, Tuesday
+
+**Today's Progress**: Learned React-Redux
+
+**Thoughts:** Tough to use its boilerplate codes Need to practice it a lot.
+
+**Link to work:** [Redux](https://github.com/13prashant/robofriends)
