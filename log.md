@@ -73,3 +73,11 @@
 **Thoughts:** Tough to use its boilerplate codes Need to practice it a lot.
 
 **Link to work:** [Redux](https://github.com/13prashant/robofriends)
+
+### Day 14: May 26, 2021, Wednesday
+
+**Today's Progress**: Continuing Redux -> Redux-thunk, Async Actions, and a lot
+
+**Thoughts:** Need to practice it a lot.
+
+**Link to work:** [Redux](https://github.com/13prashant/robofriends)
