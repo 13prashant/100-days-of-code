@@ -81,3 +81,11 @@
 **Thoughts:** Need to practice it a lot.
 
 **Link to work:** [Redux](https://github.com/13prashant/robofriends)
+
+### Day 15, 16: May 28, 2021, Friday
+
+**Today's Progress**: Fixed issues in earlier made app with PERN stack.
+
+**Thoughts:** Need to fix image upload.
+
+**Link to work:** [card-trikaa](https://card-trikaa.herokuapp.com/)
