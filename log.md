@@ -89,3 +89,9 @@
 **Thoughts:** Need to fix image upload.
 
 **Link to work:** [card-trikaa](https://card-trikaa.herokuapp.com/)
+
+### Day 17, 18: May 30, 2021, Sunday
+
+**Today's Progress**: Couldn't get access to my computer. Continued learning via phone. Learned a bit about MongoDB. ( I have used PostgreSQL in the past 2 projects. )
+
+**Link to work:** [MongoDB vs PostgreSQL](https://www.mongodb.com/compare/mongodb-postgresql)
