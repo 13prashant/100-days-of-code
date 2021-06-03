@@ -95,3 +95,7 @@
 **Today's Progress**: Couldn't get access to my computer. Continued learning via phone. Learned a bit about MongoDB. ( I have used PostgreSQL in the past 2 projects. )
 
 **Link to work:** [MongoDB vs PostgreSQL](https://www.mongodb.com/compare/mongodb-postgresql)
+
+### Day 19: Jun 03, 2021, Thursday
+
+**Today's Progress**: After 3 RESTFUL days continuing the journey with practicing CSS. Cloning Ableton's about webpage.
