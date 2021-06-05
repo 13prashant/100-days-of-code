@@ -99,3 +99,12 @@
 ### Day 19: Jun 03, 2021, Thursday
 
 **Today's Progress**: After 3 RESTFUL days continuing the journey with practicing CSS. Cloning Ableton's about webpage.
+
+### Day 20: Jun 05, 2021, Saturday
+
+**Today's Progress**: Responsive NavBar-2
+
+**Thoughts:** Need to practice more and more responsive navbars.
+
+**Link to work:** [NavBar-2](https://codepen.io/13prashant/pen/WNpJOYE)
+
