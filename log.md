@@ -108,3 +108,12 @@
 
 **Link to work:** [NavBar-2](https://codepen.io/13prashant/pen/WNpJOYE)
 
+### Day 21: Jun 06, 2021, Sunday
+
+**Today's Progress**: Responsive NavBar-3
+
+**Thoughts:** Need to practice more and more responsive navbars.
+
+**Link to work:** [NavBar-3](https://codepen.io/13prashant/pen/mdWLooe)
+
+
