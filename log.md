@@ -116,4 +116,10 @@
 
 **Link to work:** [NavBar-3](https://codepen.io/13prashant/pen/mdWLooe)
 
+### Day 22: Jun 10, 2021, Thursday
+
+**Today's Progress**: Learned stylizing scrollbar
+
+**Link to work:** [Scrollbar Hack](https://codepen.io/13prashant/pen/YzZOLZb?editors=1100)
+
 
