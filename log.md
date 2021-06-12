@@ -122,4 +122,12 @@
 
 **Link to work:** [Scrollbar Hack](https://codepen.io/13prashant/pen/YzZOLZb?editors=1100)
 
+### Day 23, 24: Jun 12, 2021, Saturday
+
+**Today's Progress**: Revisited HTML/CSS Course.
+
+**Thoughts:** Relearning HTML/CSS cleared so many basic fundamentals that I couldn't understand clearly before.
+
+**Link to work:** [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design)
+
 
