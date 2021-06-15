@@ -130,4 +130,13 @@
 
 **Link to work:** [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design)
 
+### Day 25, 26, 27: Jun 15, 2021, Tuesday
+
+**Today's Progress**: Learning with freeCodeCamp, Practicing with HTML/CSS with 'Responsive Web Design Certification'
+
+**Thoughts:** Relearning HTML/CSS cleared so many basic fundamentals that I couldn't understand clearly before.
+
+**Link to work:** [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/)
+
+
 
