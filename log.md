@@ -138,5 +138,15 @@
 
 **Link to work:** [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/)
 
+### Day 28, 29: Jun 17, 2021, Thursday
+
+**Today's Progress**: I just earned the Responsive Web Design certification @freeCodeCamp
+
+**Thoughts:** Relearning HTML/CSS cleared so many basic fundamentals that I couldn't understand clearly before.
+
+**Link to work:** [freeCodeCamp](https://www.freecodecamp.org/certification/13prashant/responsive-web-design)
+
+
+
 
 
