@@ -146,6 +146,10 @@
 
 **Link to work:** [freeCodeCamp](https://www.freecodecamp.org/certification/13prashant/responsive-web-design)
 
+### Day 30: Jun 22, 2021, Tuesday
+
+**Today's Progress**: Writing a landing page with HTML/CSS which I have already made with Wordpress before.
+**Thoughts:** Improved a lot in writing clean code.
 
 
 
