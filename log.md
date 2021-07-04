@@ -154,7 +154,8 @@
 ### Day 31: July 04, 2021, Sunday
 
 **Today's Progress**: Redesigned and redeveloped whole website with HTML, SCSS, JS.
-**Thoughts:** Improved a lot in writing clean code.
+**Thoughts:** Improved a lot in writing clean code.+
+**Link to work:** [hridaysur](https://github.com/hridaysur/hridaysur.github.io/tree/redesign)
 
 
 
